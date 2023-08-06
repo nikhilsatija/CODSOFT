@@ -20,7 +20,7 @@ This repository showcases a collection of data science projects which was assign
 
 **Description:** In this project, I developed a sales prediction model using Python. The dataset consisted of historical sales data, including information about products, regions, and time periods. I utilized various data analysis techniques to predict future sales and identify trends and patterns in the data.
 
-**Link to Code:** [Sales Prediction](https://github.com/nikhilsatija/CODSOFT/tree/main/Sales%20Prediction).
+**Link to Code:** [Sales Prediction](https://github.com/nikhilsatija/CODSOFT/tree/main/Sales%20Prediction)
 
 **Dependencies:**
 - Python 3.x
