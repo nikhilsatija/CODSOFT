@@ -1,6 +1,6 @@
 # Data Science Projects 🚀
 
-This repository showcases a collection of data science projects that I have worked on. Each project involves analysis, modeling, and prediction using Python. Below are the details of some of the projects:
+This repository showcases a collection of data science projects which was assigned to me during my internship with [Codsoft](https://www.linkedin.com/company/codsoft/mycompany/). Each project involves analysis, modeling, and prediction using Python. Below are the details of those projects:
 
 ## 1. Titanic Survival Prediction
 
